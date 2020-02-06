@@ -7,13 +7,21 @@ body{
 
 h1{
     text-align: center;
+    padding-bottom: 150px;
 }
 
+
+
 .table-all{
-    padding-top: 150px;
+    background-image: url(image/pexels-photo-221sdfsd7366.png);
     margin: 0 auto;
-    width: 400px;
-   
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.table-all-one{
+    padding-top: 25px;
 }
 
 .city-name{
@@ -23,10 +31,6 @@ h1{
 .city-name-text{
     text-align: center;
     font-size: 20px;
-}
-
-.table-all-two{
-    
 }
 
 .date-text{
